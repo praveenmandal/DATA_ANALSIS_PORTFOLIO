@@ -10,13 +10,6 @@ This portfolio is intended for learning purposes and demonstrates my SQL SERVER 
 ### Sales analysis
 
 
-## Contents
-### Sales analysis
-
-
-## Contents
-### Sales analysis
-
 
 ## Features
 
