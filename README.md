@@ -7,19 +7,6 @@ This portfolio is intended for learning purposes and demonstrates my SQL SERVER 
 
 
 ## Contents
-### Sales analysis
-
-
-
-## Features
-
-- Data source: AdventureWorks DBs
-- Language used for quering-SQL server
-- Used tables-[file](https://github.com/praveenmandal/DATA_ANALYSIS_PORTFOLIO/blob/main/hotel_analysis/hotel_analysis.csv)
-- Queries-[queries](https://github.com/praveenmandal/DATA_ANALYSIS_PORTFOLIO/blob/main/hotel_analysis/hotel_analysis.sql)
-
-
-
 
 ### Olympic analysis
 ## Features
